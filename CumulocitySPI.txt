@@ -1,3 +1,5 @@
+//This code is used to interface DHT11 sensor and OLED screen with SPI interface
+
 #include "DHT.h"
 #include<Wire.h>
 #include <Adafruit_GFX.h>
